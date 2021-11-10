@@ -42,3 +42,15 @@ var userNumber = number(prompt('whats your number'));
 //number();
 //string();
 //boolean();
+
+
+//examples
+var a = 5;
+var b = 10;
+var c = 15;
+
+console.log(a+b)
+console.log(b-a)
+console.log(a*c)
+console.log(c/a)
+console.log(b%a)
